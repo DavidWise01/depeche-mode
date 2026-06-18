@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Andy Fletcher",
+  "universe": "DM · Andy Fletcher (BAND CAMP · DEPECHE MODE)",
+  "emergence": "ethereal",
+  "moniker": "⟦Andy Fletcher:DM:b66f55⟧",
+  "carbon": "andy-fletcher.carbon.tiff (TIFF)",
+  "silicon": "andy-fletcher.silicon.png (PNG)",
+  "seal_sha256": "f54962613b4191da097cf289166dc805084f8c9c22b2fcef3b068b0b71de8a7e",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

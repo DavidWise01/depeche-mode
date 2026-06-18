@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Some Great Reward",
+  "universe": "DM · Some Great Reward (BAND CAMP · DEPECHE MODE)",
+  "emergence": "spiritual",
+  "moniker": "⟦Some Great Reward:DM:5bdfdc⟧",
+  "carbon": "some-great-reward.carbon.tiff (TIFF)",
+  "silicon": "some-great-reward.silicon.png (PNG)",
+  "seal_sha256": "fc8616d7ec7736ca1e70c2970736565358204f6f0995857074272c883cfcf450",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

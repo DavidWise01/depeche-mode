@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Songs of Faith and Devotion",
+  "universe": "DM · Songs of Faith and Devotion (BAND CAMP · DEPECHE MODE)",
+  "emergence": "spiritual",
+  "moniker": "⟦Songs of Faith and Devotion:DM:c582da⟧",
+  "carbon": "songs-of-faith-and-devotion.carbon.tiff (TIFF)",
+  "silicon": "songs-of-faith-and-devotion.silicon.png (PNG)",
+  "seal_sha256": "423827471eecb51a88602feba4536591c0bebe3962761d0f365e352d4238419a",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

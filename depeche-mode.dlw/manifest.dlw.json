@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "DEPECHE MODE",
+  "universe": "BAND CAMP · DEPECHE MODE · music lineage",
+  "emergence": "",
+  "moniker": "⟦DEPECHE MODE:DM:20ff15⟧",
+  "carbon": "depeche-mode.carbon.tiff (TIFF)",
+  "silicon": "depeche-mode.silicon.png (PNG)",
+  "seal_sha256": "207bf81795655ee82d4d411ea74e9a762725dd0101ff7fde6ed78cd815d0040a",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

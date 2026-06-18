@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Violator",
+  "universe": "DM · Violator (BAND CAMP · DEPECHE MODE)",
+  "emergence": "spiritual",
+  "moniker": "⟦Violator:DM:039eef⟧",
+  "carbon": "violator.carbon.tiff (TIFF)",
+  "silicon": "violator.silicon.png (PNG)",
+  "seal_sha256": "53bd854f704fac6c5d6343073159a261a3abd72b2150a9b7021322365e93ece3",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Speak & Spell",
+  "universe": "DM · Speak & Spell (BAND CAMP · DEPECHE MODE)",
+  "emergence": "electrical",
+  "moniker": "⟦Speak & Spell:DM:a17115⟧",
+  "carbon": "speak-and-spell.carbon.tiff (TIFF)",
+  "silicon": "speak-and-spell.silicon.png (PNG)",
+  "seal_sha256": "5374b4338a017e7d84497296b15a93fcec5387a5d0cdf55f2cf95c4df8be07a8",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

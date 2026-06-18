@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Music for the Masses",
+  "universe": "DM · Music for the Masses (BAND CAMP · DEPECHE MODE)",
+  "emergence": "electrical",
+  "moniker": "⟦Music for the Masses:DM:f816cd⟧",
+  "carbon": "music-for-the-masses.carbon.tiff (TIFF)",
+  "silicon": "music-for-the-masses.silicon.png (PNG)",
+  "seal_sha256": "9029fdc93c5d68022ff546922156fa62e9af034db97650c8fa0aa19e67b5d472",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

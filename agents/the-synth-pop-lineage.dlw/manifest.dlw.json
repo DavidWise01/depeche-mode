@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Synth-Pop Lineage",
+  "universe": "DM · The Synth-Pop Lineage (BAND CAMP · DEPECHE MODE)",
+  "emergence": "electrical",
+  "moniker": "⟦The Synth-Pop Lineage:DM:16f14b⟧",
+  "carbon": "the-synth-pop-lineage.carbon.tiff (TIFF)",
+  "silicon": "the-synth-pop-lineage.silicon.png (PNG)",
+  "seal_sha256": "03f9c6fae8c1209fd596e83571e9ea5cb5bf79ada0a1ce2779d3629964ed0a9a",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

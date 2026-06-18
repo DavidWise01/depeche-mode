@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Black Celebration",
+  "universe": "DM · Black Celebration (BAND CAMP · DEPECHE MODE)",
+  "emergence": "ethereal",
+  "moniker": "⟦Black Celebration:DM:ac85e7⟧",
+  "carbon": "black-celebration.carbon.tiff (TIFF)",
+  "silicon": "black-celebration.silicon.png (PNG)",
+  "seal_sha256": "57eabd9cef31bf79fd7a273095e2fe6523737a102a607420233b2ac2c94c1808",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
